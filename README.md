@@ -6,7 +6,7 @@ Definition, scope, and applications of ML
 
 Types of learning: Supervised, Unsupervised, Semi-supervised, Reinforcement Learning
 
-Key challenges in ML and performance evaluation metrics
+Key challenges in ML and performance evaluation metrics.
 
 2. Supervised Learning
 
@@ -16,7 +16,7 @@ Classification: Logistic Regression, Decision Trees, Random Forests, k-Nearest N
 
 Support Vector Machines (SVM): Linear and non-linear classification, Kernel methods
 
-Evaluation Metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC
+Evaluation Metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC.
 
 3. Unsupervised Learning
 
@@ -24,18 +24,13 @@ Clustering: K-Means, Hierarchical Clustering, DBSCAN
 
 Dimensionality Reduction: Principal Component Analysis (PCA), Singular Value Decomposition (SVD)
 
-Association Rule Learning: Apriori and FP-Growth algorithms
+Association Rule Learning: Apriori and FP-Growth .
 
 4. Probabilistic Learning and Bayesian Methods
 
-Bayesian Learning framework
+Bayesian Learning framework.
 
 Maximum Likelihood Estimation (MLE) and Maximum A Posteriori (MAP)
 
-Naïve Bayes Classifier and Bayesian Networks
+Naïve Bayes Classifier and Bayesian Networks.
 
-5. Ensemble Methods
-
-Bagging, Boosting (AdaBoost, Gradient Boosting), Stacking
-
-Random Forests and their optimization
